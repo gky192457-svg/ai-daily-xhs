@@ -7,6 +7,19 @@
 
 ---
 
+## 在线演示（真实运行的内容账号）
+
+本项目驱动的真实账号（小红书 · 零阶产品谱）：
+
+- **账号主页**：<https://www.xiaohongshu.com/user/profile/6111d74d0000000001008628>
+- **已发布笔记**（2026-10-25 从创作平台实时抓取生成）：
+  - [AI 日报：研究员年薪 120 万](https://www.xiaohongshu.com/explore/6addd8f5000000002b000fdc?xsec_token=YBfHulREua_HyW8faKdTS030OAMccIJujQaGJ-0r24h0s=&xsec_source=pc_creatormng) —— 模板B（终端极简）成品，6 张图 + 文案全自动产出
+  - [AI圈炸了🔥融资扎堆PM降42%](https://www.xiaohongshu.com/explore/6addb0f8000000002b02a202?xsec_token=YBfHulREua_HyW8faKdTS03_d0CKsxM8MJNrA6YNCkIWo=&xsec_source=pc_creatormng)
+
+> xsec_token 是小红书的防盗链签名，会定期过期；过期后访问上方主页链接仍可查看全部笔记。
+
+---
+
 ## 一、它解决什么问题
 
 AI 资讯类内容账号的日常运营是高度重复的劳动：找资讯 → 写文案 → 做图 → 发布。本项目把这条链路完整自动化：
