@@ -7,8 +7,8 @@
 output/
 output_b/
 
-# 本地实际运行的发布脚本（仓库版为脱敏占位版）
-publish_flow.js
+# 本地实际运行的发布脚本（仓库版为脱敏占位版 pipeline/publish_flow.js）
+/publish_flow.js
 
 # 本地数据与临时文件
 *.json
