@@ -1,7 +1,6 @@
-# AI Daily · 小红书图文自动生成与发布流水线
+# AI Daily｜面向 AI 资讯创作者的内容生产自动化工作流
 
-> 一个端到端自动化的 AI 内容产品：每天定时采集 AI 行业资讯 → 大模型改写 → 程序化渲染图文 → 浏览器自动化发布到小红书。
-> **对 AI 产品经理岗位而言，这个项目覆盖了从 Prompt 工程、多模态生成、数据 schema 设计到 RPA 发布、数据驱动迭代的完整链路。**
+> 围绕资讯整理、文案改写、图文制作与发布场景，设计 AI 内容生产工作流；通过结构化 JSON 连接内容与双视觉模板，开发程序化渲染与浏览器发布流程，并整理输出约束及异常处理方案。
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue)](https://www.python.org/) [![Pillow](https://img.shields.io/badge/Pillow-渲染管线-green)](https://python-pillow.org/) [![Playwright](https://img.shields.io/badge/Playwright-RPA-orange)](https://playwright.dev/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE)
 
