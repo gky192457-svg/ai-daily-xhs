@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-25",
+  "topics": {
+    "ai_industry_dev": {
+      "cover_hook": "OpenAI 300 亿美元过桥轮\n估值 1.25 万亿",
+      "summary": "资本又双叒叕往 AI 脑袋里塞钱了，这周的大手笔，看得我钱包都自卑。",
+      "items": [
+        {
+          "headline": "OpenAI 快凑齐 300 亿美元过桥钱",
+          "detail": "投前估值冲到 1.25 万亿美元，阿联酋土豪和 Coatue 带头买单，赶在 Anthropic 上市前先把价签挂好。",
+          "source": "Digest AI / Bloomberg / TechCrunch"
+        },
+        {
+          "headline": "DeepSeek 拿下约 1000 亿元人民币融资",
+          "detail": "彭博报道其新一轮融资约 1000 亿元（约 150 亿美元），国产大模型「印钞机」名不虚传。",
+          "source": "Bloomberg / Techmeme"
+        },
+        {
+          "headline": "Meta 一年要砸 1300–1450 亿美元搞 AI",
+          "detail": "2026 资本开支指引上调，超 1000 亿砸向 AI 基建；代价是 Q3 自由现金流首次转负，股价当天跌近 7%。",
+          "source": "The AI Daily / CNBC"
+        },
+        {
+          "headline": "特斯拉和 SpaceX 要搞 3.5 万亿美元合并？",
+          "detail": "两家公司各自成立独立董事特别委员会，探讨围绕 AI 的潜在合并，马斯克在 SpaceX 财报电话会上亲口透露。",
+          "source": "Digest AI / The Verge"
+        }
+      ]
+    },
+    "ai_latest": {
+      "cover_hook": "DeepSeek 把推理引擎开源了\n连服务层都给你",
+      "summary": "新模型、新工具、开源大招这周跟下饺子似的，我眼睛都看花了。",
+      "items": [
+        {
+          "headline": "OpenAI 发布 Decisions API",
+          "detail": "一个主打「快且便宜」的推理端点，专门给 App 做二选一 / 离散决策，跟一堆决策模型竞品正面刚。",
+          "source": "OpenAI / The AI Daily"
+        },
+        {
+          "headline": "Google Cloud 推出 Agent Compute Engine",
+          "detail": "专为在沙箱里跑 AI 智能体打造的基础设施，智能体中间件这层终于有了「专属工位」。",
+          "source": "SiliconAngle"
+        },
+        {
+          "headline": "Anthropic 上线 Claude Duet 常驻智能体",
+          "detail": "一个「永远在线」的工作搭子，是继 Meta、OpenAI、Google 之后第四款主动型 AI。",
+          "source": "WOWTALE / Anthropic"
+        },
+        {
+          "headline": "DeepSeek 把推理引擎 DeepInfer 开源了",
+          "detail": "不止开源权重，连服务层都摊开给你看（Apache 2.0），目前支持 V4.1 Flash，私有化部署门槛再降一截。",
+          "source": "AIToolsRecap / DeepSeek GitHub"
+        }
+      ]
+    },
+    "ai_product_manager": {
+      "cover_hook": "AI PM 岗位需求 +455%\n传统岗 -42%",
+      "summary": "PM 这行被 AI 重新洗牌，不会点大模型、Agent、效果评估，面试可能要凉。",
+      "items": [
+        {
+          "headline": "秋招冰火两重天：传统 PM -42%，AI PM +455%",
+          "detail": "2026 秋招传统产品经理岗位同比下滑 42%，AI 产品经理需求暴涨 455%，应届生年薪普遍 30–50 万元。",
+          "source": "中国日报网 / 职计划"
+        },
+        {
+          "headline": "能力模型重构：从「功能设计师」变「能力架构师」",
+          "detail": "InfoQ 的 AI-Native PM 模型列出 10 大能力域；Agent 工作流设计被点名为 2026 年最高优先级能力。",
+          "source": "中国日报网 / InfoQ"
+        },
+        {
+          "headline": "AI 技能成硬门槛：29% 的 PM 岗明确要求",
+          "detail": "行业数据显示 AI PM 薪资比非 AI 同行溢价 52%；Prompt 工程、效果评估、数据驱动成了新三件套。",
+          "source": "AI Pulse / theaimarketpulse"
+        },
+        {
+          "headline": "三条职业岔路：业务 / 平台 / 技术导向",
+          "detail": "SegmentFault 指南把 AI PM 拆成业务导向、平台导向、技术导向三类，核心岗（从 0 到 1 做模型）溢价 15%–30%。",
+          "source": "SegmentFault 思否"
+        }
+      ]
+    },
+    "ai_salary": {
+      "cover_hook": "研究员 P50 年薪 120 万\n同比 +35%",
+      "summary": "钱景是真香，但「会用工具」和「用工具做判断」两拨人，身价差出一条街。",
+      "items": [
+        {
+          "headline": "大模型算法研究员 P50 120 万，同比 +35%",
+          "detail": "南方新华薪酬分位显示，六大核心岗里研究员最贵；具身智能算法同比 +40%、AI 应用开发 +30%，涨得一个比一个猛。",
+          "source": "南方新华 / 三个皮匠报告"
+        },
+        {
+          "headline": "Agent 开发岗成抢人新宠，SSP 直冲 80 万",
+          "detail": "美团 Agent 开发 SSP 65–80 万、拼多多大模型 SSP 65–110 万、京东大模型涨幅 75%+，企业抢的是「把模型用起来」的人。",
+          "source": "DAMO 开发者矩阵 / CSDN"
+        },
+        {
+          "headline": "城市榜：北京 AI 岗中位数 78 万居首",
+          "detail": "深圳 75 万、上海 72 万、杭州 68 万紧随；杭州薪酬涨幅四城最高（+22%），正从「互联网之都」奔「AI 之都」。",
+          "source": "三个皮匠报告"
+        },
+        {
+          "headline": "有 AI 技能的岗，平均溢价 62%",
+          "detail": "PwC 基于超 10 亿条招聘广告分析：点名 AI 技能的岗位薪资溢价从 57% 升到 62%，消费品行业最高冲到 118%。",
+          "source": "PwC / 三个皮匠报告"
+        }
+      ],
+      "chart": {
+        "title": "2026 核心 AI 岗位年薪代表值（P50，万元/年）",
+        "labels": [
+          "大模型算法研究员",
+          "AI Infra工程师",
+          "具身智能算法",
+          "AI产品经理",
+          "AI应用开发工程师"
+        ],
+        "values": [
+          120,
+          80,
+          60,
+          50,
+          45
+        ]
+      }
+    }
+  },
+  "takeaways": [
+    "资本疯狂往头部塞钱：OpenAI 300 亿美元过桥轮、DeepSeek 约千亿融资，行业杀进「决赛圈」。",
+    "Meta 一年砸 1300–1450 亿美元搞 AI，自由现金流都干成负的了，股价先跌 7% 压压惊。",
+    "开源再下一城：DeepSeek 把推理引擎都开源了，私有化部署门槛又低了一截。",
+    "PM 被 AI 重新洗牌：传统岗 -42%、AI PM +455%，不会 Agent 和评估面试要凉。",
+    "薪资两极分化：大模型研究员 P50 120 万、AI PM 比同行贵 52%，但「只会用工具」的溢价正在消失。"
+  ],
+  "caption": "过去 24 小时，AI 圈又热闹得不行 🤖\n\n资本继续往头部大模型公司狂砸（OpenAI 300 亿美元过桥轮、DeepSeek 约千亿融资），新模型新工具跟下饺子似的——OpenAI 的 Decisions API、Google 的 Agent Compute Engine、Anthropic 的常驻智能体 Claude Duet 一个接一个；另一边，PM 岗位被 AI 重新洗牌（传统岗 -42%、AI PM +455%），薪资也两极分化：大模型研究员 P50 120 万，AI PM 比同行贵 52%。\n\n关注我，AI 圈大事不迷路～记得点赞收藏，明天同一时间继续唠！",
+  "hashtags": [
+    "#AI",
+    "#人工智能",
+    "#AI产品经理",
+    "#大模型",
+    "#AI薪资",
+    "#AI行业",
+    "#科技日报",
+    "#搞钱"
+  ],
+  "title": "AI 日报：研究员年薪 120 万"
+}

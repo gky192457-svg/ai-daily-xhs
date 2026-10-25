@@ -1,0 +1,20 @@
+# 本地工作区产物（不进入仓库）
+.workbuddy/
+.playwright-mcp/
+.preview/
+
+# 渲染输出（大文件；samples/ 已提供数据样例）
+output/
+output_b/
+
+# 本地实际运行的发布脚本（仓库版为脱敏占位版）
+publish_flow.js
+
+# 本地数据与临时文件
+*.json
+!samples/*.json
+
+# 系统垃圾
+__pycache__/
+*.pyc
+.DS_Store
